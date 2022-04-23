@@ -29,5 +29,5 @@
 <br>
 
 <a target="_blank" href="https://filedoge.com/download/b3e6778f7eba6ea9839af8db56dbdbdb017caceb7f89ec278907d359e80174c3501ccfad7522961550bb" download="HAC Alg Typer">
-  <img src="Download.png" width=300 alt="Download">
+  <img src="http://i.im.ge/2022/04/23/lHxURp.png" alt="Download" border="0">
 </a>
